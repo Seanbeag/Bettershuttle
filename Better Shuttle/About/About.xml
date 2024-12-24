@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Better Shuttle</name>
+
+    <author>Seanbeag</author>
+
+    <supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	
+	<packageId>Seanbeag.BetterShuttle</packageId>
+
+    <description>Increases the distance the shuttle can travel by about 50%.</description>
+
+</ModMetaData>

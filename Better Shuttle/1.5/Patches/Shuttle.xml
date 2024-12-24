@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/TransportShipDef[defName="Ship_Shuttle"]/maxLaunchDistance</xpath>
+		<value>
+			<maxLaunchDistance>150</maxLaunchDistance>
+		</value>
+	</Operation>
+	
+</Patch>
